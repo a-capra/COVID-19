@@ -7,17 +7,10 @@
 [![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
 [![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
  
-## Avviso modifiche 
-[https://github.com/pcm-dpc/COVID-19/issues/625](https://github.com/pcm-dpc/COVID-19/issues/625#issuecomment-629615944)<br>
-Modifiche effettuate - fino al 22 maggio 2020, nella cartella legacy-data, saranno caricati i dati giornalieri con i codice_regione 04 per P.A. Bolzano e P.A. Trento che da oggi assumeranno il nuovo valore codice_regione 21 per P.A. Bolzano e 22 per P.A. Trento<br>
-
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
-
 Il 31 gennaio 2020, il Consiglio dei Ministri dichiara lo stato di emergenza, per la durata di sei mesi, in conseguenza del rischio sanitario connesso all'infezione da Coronavirus.
-
 Al Capo del Dipartimento della Protezione Civile, Angelo Borrelli, è affidato il coordinamento degli interventi necessari a fronteggiare l'emergenza sul territorio nazionale.  
-  
 Le principali azioni coordinate dal Capo del Dipartimento sono volte al soccorso e all'assistenza della popolazione eventualmente interessata dal contagio, al potenziamento dei controlli nelle aree aeroportuali e portuali, in continuità con le misure urgenti già adottate dal Ministero della salute, al rientro in Italia dei cittadini che si trovano nei Paesi a rischio e al rimpatrio dei cittadini stranieri nei Paesi di origine esposti al rischio.
 
 Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai soli fini comunicativi e di informazione, il Dipartimento della Protezione Civile ha elaborato un cruscotto geografico interattivo raggiungibile agli indirizzi  [http://arcg.is/C1unv](http://arcg.is/C1unv) (versione desktop) e [http://arcg.is/081a51](http://arcg.is/081a51) (versione mobile) e mette a disposizione, con licenza CC-BY-4.0, le seguenti informazioni aggiornate quotidianamente alle 18:30 (successivamente la conferenza stampa del Capo Dipartimento):
@@ -30,6 +23,7 @@ Per informare i cittadini e mettere a disposizione i dati raccolti, utili ai sol
 - Aree
 - Note
 - Dati contratti DPC forniture
+- Metriche
 
 ## Avvisi
 
@@ -81,7 +75,11 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
-├── data-legacy
+├── metriche
+│   ├── dpc-covid19-ita-metriche-dashboard-desktop.csv
+│   ├── dpc-covid19-ita-metriche-dashboard-desktop.json
+│   ├── dpc-covid19-ita-metriche-dashboard-mobile.csv
+│   ├── dpc-covid19-ita-metriche-dashboard-mobile.json
 ├── note/
 │   ├── dpc-covid19-ita-note-en.csv
 │   ├── dpc-covid19-ita-note-it.csv
@@ -102,6 +100,7 @@ COVID-19/
 - [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
 - [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
 - [Dati aree misure restrittive COVID19](dati-aree-covid19.md)
+- [Metriche](metriche.md)
 
 ## Licenza
 

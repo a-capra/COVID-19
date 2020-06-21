@@ -7,6 +7,24 @@
 ## Avvisi
 
 ```diff
+- 20/06/2020: dati Regione Calabria ricalcolo casi positivi (-1 riferito al giorno 18/06/2020)
+- 20/06/2020: dati P.A. Bolzano ricalcolo casi positivi (+3 già guariti)
+- 19/06/2020: dati Regione Sicilia ricalcolo casi positivi (-397)
+- 19/06/2020: dati Regione Abruzzo ricalcolo casi positivi (-2 riferiti al giorno 14/06/2020)
+- 18/06/2020: dati Regione Abruzzo ricalcolo casi positivi (-2 riferito ai giorni 06/04/2020 e 14/06/2020)
+- 17/06/2020: dati Regione Abruzzo ricalcolo casi positivi (-1 riferito al 14/06/2020)
+- 15/06/2020: dati P.A. Bolzano ricalcolo casi positivi (-2)
+- 13/06/2020: dati Regione Lazio ricalcolo decessi (+25 rispetto a ieri +2 decessi nelle ultime 48 ore e +23 attribuibili a marzo e aprile)
+- 12/06/2020: dati P.A. Bolzano ricalcolo deceduti (-1 relativo a ieri)
+- 12/06/2020: dati Regione Campania ricalcolo casi positivi (-230)
+- 09/06/2020: dati Regione Abruzzo ricalcolo dati 1 decesso imputabile a oggi e 32 decessi avvenuti in periodi precedenti
+- 09/06/2020: dati Regione Sardegna ricalcolo dei casi (-1 giorno precedente)
+- 04/06/2020: dati Regione Marche ricalcolo casi testati
+- 31/05/2020: dati Regione Abruzzo dimessi/guariti non aggiornati
+- 30/05/2020: dati Regione Abruzzo aggiornamento non pervenuto
+- 29/05/2020: dati Regione Marche ricalcolo decessi (11 decessi precedentemente segnalati non risultano classificabili come Covid-19 e non risultano inseriti nel database ISS)
+- 25/05/2020: dati Regione Sardegna ricalcolati casi positivi (-2 per falsi positivi della ASSL di Oristano e della ASSL di Sassari)
+- 24/05/2020: dati Regione Lombardia dato persone decedute non aggiornato
 - 19/05/2020: dati Regione Marche ricalcolo casi positivi: -8 (-7 il 17/05/2020 e -1 il 18/05/2020)
 - 18/05/2020: dati P.A. Trento non aggiornati nei casi testati
 - 15/05/2020: dati Regione Lazio 73 nuovi positivi di cui 18 ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo, aprile e maggio
