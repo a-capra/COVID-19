@@ -15,7 +15,7 @@ Ndays=len(l)
 print('start:',start_date, 'Number of days:',Ndays)
 
 t=np.array( [start_date + timedelta(days=i) for i in range(Ndays)] )
-xlab=np.array( [start_date + timedelta(days=i) for i in range(0,Ndays,6)] )
+xlab=np.array( [start_date + timedelta(days=i) for i in range(0,Ndays,10)] )
 
 var1=['totale_positivi','totale_ospedalizzati','terapia_intensiva','deceduti']
 
