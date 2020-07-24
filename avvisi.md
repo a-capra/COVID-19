@@ -5,8 +5,48 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+22/07/2020
+La regione Abruzzo comunica il seguente ricalcolo: Sono stati sottratti 2 casi positivi erroneamente conteggiati nei giorni precedenti. La regione Basilicata comunica che dei 36 nuovi casi positivi, 33 sono stati riscontrati in un gruppo di migranti già sottoposti a quarantena.
+
+21/07/2020
+La Regione Puglia comunica il seguente ricalcolo: è stato eliminato un caso a seguito di verifica con il laboratorio
+
+19/07/2020
+La Regione Molise segnala che 1 caso del 18 luglio riusulta essere negativo confermato, la Regione Basilicata segnala che nella giornata di domani comunicherà il numero esatto dei casi testati e dei tamponi effettuati
+
+17/07/2020
+La Regione Emilia Romagna comunica il seguente ricalcolo: in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi (1 da Parma e 1 da Ferrara) in quanto ri-classificati non casi COVID-19. Si corregge pertanto il numero totale dei casi positivi comunicato ieri: n. corretto 29.033
+
+15/07/2020
+La regione Basilicata ha comunicato un ricalcolo: ha eliminato 1 caso inserito erroneamente come nuovo positivo, la regione Calabria ha comunicato che dei 54 soggetti positivi posti in isolamento domiciliare, 13 sono stati trasferiti a Roma, in apposita struttura (Ospedale Celio)
+
+12/07/2020
+La Regione Calabria segnala che dallo screening condotto su 70 migranti sbarcati ieri a Roccella Ionica sono stati intercettati 26 soggetti positivi dal laboratorio dell'ASP di Reggio Calabria; in strutture dedicate, appositamente individuate dalla Prefettura
+
+10/07/2020
+La Regione Lazio segnala che si aggiungono ulteriori 12 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale. Il totale delle persone positive dal volo in oggetto è 48
+
+09/07/2020
+Le Regioni Liguria, Piemonte e Valle d'Aosta riportano un numero inferiore di casi diagnostici rispetto a ieri, per un ricalcolo, sono aumentati infatti gli screening. La regione Emilia Romagna comunica che a seguito di un ricontrollo, sono stati eliminati dall'AUsl di Reggio Emilia 16 casi: 15 casi erano doppi inserimenti, un caso è stato riattribuito all'AUsl di Cesena. Il totale dei casi all'08.07 era di 28.740, pertanto l'incremento reale dei casi di oggi è +29
+
+08/07/2020
+La Regione Lazio segnala che al totale dei casi positivi si aggiunge un totale di 37 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA-FCO atterrato il 6/06/2020 alle 17.45 presso l'aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza
+regionale
+
+07/07/2020
+La Regione Puglia riporta un caso totale in meno rispetto a ieri perchè ha eliminato un caso duplicato, alla Regione Lazio si aggiungono 21 persone positive a test molecolare per la ricerca di SARS-CoV-2 identificate a seguito di screening effettuato allo sbarco del volo DACCA –FCO atterrato il 6/06/2020 alle 17.45 presso l’aeroporto Leonardo da Vinci di Fiumicino, come da ordinanza regionale
+
+06/07/2020
+La Regione Friuli Venezia Giulia riporta una diminuzione dei Guariti,rispetto a ieri, in quanto è stata rilevata una ripositivizzazione, la Regione Piemonte riporta che i dati dei casi totali da diagnosi stanno diminuendo in quanto stanno effettuando un ricalcolo e di conseguenza aumentano i casi da screening
+
+01/07/2020
+La Regione Marche ha comunicato il seguente ricalcolo: n.4 decessi precedentemente segnalati non risultano classificabili come COVID-19 positivi, la Regione Puglia ha comunicato il seguente ricalcolo: ha eliminato n.1 caso duplicato
 
 ```diff
+- 24/06/2020: dati P.A. Trento ricalcolo casi deceduti e guariti
+- 23/06/2020: dati Regione Sardegna ricalcolo casi positivi (-9)
+- 23/06/2020: dati Regione Valle d'Aosta ricalcolo tamponi
+- 22/06/2020: dati Regione Marche ricalcolo casi positivi (+3)
 - 20/06/2020: dati Regione Calabria ricalcolo casi positivi (-1 riferito al giorno 18/06/2020)
 - 20/06/2020: dati P.A. Bolzano ricalcolo casi positivi (+3 già guariti)
 - 19/06/2020: dati Regione Sicilia ricalcolo casi positivi (-397)
