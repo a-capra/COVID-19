@@ -2,8 +2,10 @@ import json
 import numpy as np
 import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
+import os
 
-fname='./dati-json/dpc-covid19-ita-andamento-nazionale.json'
+fpath= os.path.dirname(os.path.realpath(__file__)).replace('\\','/')
+fname=fpath+'/dati-json/dpc-covid19-ita-andamento-nazionale.json'
 with open(fname) as json_data:
     print('file open')
     l = json.load(json_data)
@@ -15,7 +17,7 @@ Ndays=len(l)
 print('start:',start_date, 'Number of days:',Ndays)
 
 t=np.array( [start_date + timedelta(days=i) for i in range(Ndays)] )
-xlab=np.array( [start_date + timedelta(days=i) for i in range(0,Ndays,10)] )
+xlab=np.array( [start_date + timedelta(days=i) for i in range(0,Ndays,20)] )
 
 var1=['totale_positivi','totale_ospedalizzati','terapia_intensiva','deceduti']
 
